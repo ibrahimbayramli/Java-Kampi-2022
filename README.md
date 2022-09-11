@@ -1,1 +1,1 @@
-# Java-Kampi-2022
+# Engin DEMİROĞ'un 2022 yılında düzenlediği Java kampı uygulamaları.
